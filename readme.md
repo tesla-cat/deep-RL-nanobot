@@ -9,7 +9,7 @@ This repository is for the following course
 
 I was awarded a grad of `1` (highest grade in German system), [here is the transcript](./transcript%20University%20of%20Goettingen.pdf).
 
-My responsibility was to create a `stochastic fluid - nanobot` [environment](./src/environment.py) using openAI gym.
+My responsibility was to create a [`stochastic fluid - nanobot` environment](./src/environment.py) using openAI gym.
 
 My team member's responsibility was to create the [deep reinforcement learning agent](./src/DeepQ_CustomEnv_Test.py).
 
