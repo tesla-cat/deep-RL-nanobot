@@ -7,7 +7,7 @@ This repository is for the following course
 | --- | --- | --- | --- |
 | University of Göttingen | Prof. Dr. Reiner Kree | Advanced Topics in Biophysics / Physics of complex systems (Hard problems in soft matter) | 2019 |
 
-I was awarded a grad of `1` (highest grade in German system), [here is the transcript](./transcript%20University%20of%20Goettingen.pdf).
+I was awarded a grade of `1` (highest grade in the German system), [here is the transcript](./transcript%20University%20of%20Goettingen.pdf).
 
 My responsibility was to create a [`stochastic fluid - nanobot` environment](./src/environment.py) using openAI gym.
 
@@ -17,6 +17,6 @@ By working together we successfully trained the RL agent (nanobot) to navigate t
 
 The purpose of this experiment is for applications in drug / gene delivery in the human body using nano-robots.
 
-It was an exciting experience and Prof. Kree was absolutely an amazing teacher and a great physicist. He taught us about deep RL using concepts from advanced Physics that is not easily accessible by AI/ML people from other backgrounds.
+It was an exciting experience and Prof. Kree was absolutely an amazing teacher and a great physicist. He taught us about deep RL using concepts from advanced Physics that are not easily accessible by AI/ML people from other backgrounds.
 
 
