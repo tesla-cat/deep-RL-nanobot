@@ -21,4 +21,4 @@ It was an exciting experience and Prof. Kree was absolutely an amazing teacher a
 
 
 
-I wish I had the chance to keep this project going but unfortunately I only spent less than 4 months in Germany as an exchange student. And I have been busy with my work in Singapore since then.
+I wish I had the chance to take this project further but unfortunately I only spent less than 4 months in Germany as an exchange student. And I have been busy with my work in Singapore since then.
