@@ -20,3 +20,5 @@ The purpose of this experiment is for applications in drug / gene delivery in th
 It was an exciting experience and Prof. Kree was absolutely an amazing teacher and a great physicist. He taught us about deep RL using concepts from advanced Physics that are not easily accessible by AI/ML people from other backgrounds.
 
 
+
+I wish I had the chance to keep this project going but unfortunately I only spent less than 4 months in Germany as an exchange student. And I have been busy with my work in Singapore since then.
