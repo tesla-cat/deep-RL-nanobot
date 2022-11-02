@@ -3,9 +3,9 @@
 
 This repository is for the following course
 
-| university | professor | course | credit |
+| university | professor | course | year |
 | --- | --- | --- | --- |
-| University of Göttingen | Prof. Dr. Reiner Kree | Advanced Topics in Biophysics / Physics of complex systems (Hard problems in soft matter) | 6 |
+| University of Göttingen | Prof. Dr. Reiner Kree | Advanced Topics in Biophysics / Physics of complex systems (Hard problems in soft matter) | 2019 |
 
 I was awarded a grad of `1` (highest grade in German system), [here is the transcript](./transcript%20University%20of%20Goettingen.pdf).
 
