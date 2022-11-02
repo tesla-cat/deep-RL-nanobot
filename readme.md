@@ -1,4 +1,9 @@
 
+related repos
+
+- [neural-networks-from-scratch](https://github.com/tesla-cat/neural-networks-from-scratch)
+
+
 # deep RL nanobot
 
 This repository is for the following course
