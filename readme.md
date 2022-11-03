@@ -16,7 +16,7 @@ I was awarded a grade of `1` (highest grade in the German system), [here is the 
 
 My responsibility was to create a [`stochastic fluid - nanobot` environment](./src/environment.py) using openAI gym.
 
-My team member's responsibility was to create the [deep reinforcement learning agent](./src/DeepQ_CustomEnv_Test.py).
+My team member's responsibility was to create the [deep reinforcement learning agent](./src/agent.py).
 
 By working together we successfully trained the RL agent (nanobot) to navigate through the stochastic fluid environment to reach the target location. 
 
